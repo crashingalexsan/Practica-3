@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="c:\users\alejandro\documents\visual studio 2015\projects\practica 3\practica 3\source.c" md5="37f33ce1617a8a4393c590b815d56b4c">
+    <snippet line="88">
+      <line line="85">    EnterCriticalSection(&amp;sc);</line>
+      <line line="86">    int hnilo = hilonumero;</line>
+      <line line="87">    hilonumero++;</line>
+      <line line="88">    LeaveCriticalSection(&amp;sc);</line>
+      <line line="89">    int rinic = (MAX / THREADS)*hnilo;</line>
+    </snippet>
+    <snippet line="100">
+      <line line="97">            for(j = i; j&lt;MAX; j++)</line>
+      <line line="98">                if(i != j)            </line>
+      <line line="99">                    if (dist(avion[i], avion[j])&lt;distmin(avion[i], avion[j])) {</line>
+      <line line="100">                        EnterCriticalSection(&amp;sc);</line>
+      <line line="101">                        avion[i].warnings++;</line>
+    </snippet>
+    <snippet line="102">
+      <line line="99">                    if (dist(avion[i], avion[j])&lt;distmin(avion[i], avion[j])) {</line>
+      <line line="100">                        EnterCriticalSection(&amp;sc);</line>
+      <line line="101">                        avion[i].warnings++;</line>
+      <line line="102">                        avion[j].warnings++;</line>
+      <line line="103">                        totwarnings++;</line>
+    </snippet>
+    <snippet line="104">
+      <line line="101">                        avion[i].warnings++;</line>
+      <line line="102">                        avion[j].warnings++;</line>
+      <line line="103">                        totwarnings++;</line>
+      <line line="104">                        LeaveCriticalSection(&amp;sc);</line>
+      <line line="105">                    }</line>
+    </snippet>
+    <snippet line="160">
+      <line line="157">        </line>
+      <line line="158">        if(n % 100 == 0)</line>
+      <line line="159">            printf(    "Total Warnings = %d\n", totwarnings);</line>
+      <line line="160"/>
+      <line line="161">        hilonumero = 0;</line>
+    </snippet>
+    <snippet line="162">
+      <line line="159">            printf(    "Total Warnings = %d\n", totwarnings);</line>
+      <line line="160"/>
+      <line line="161">        hilonumero = 0;</line>
+      <line line="162">    }</line>
+      <line line="163"/>
+    </snippet>
+  </file>
+</snippets>

@@ -1,0 +1,19 @@
+
+=== Start: [2016/03/06 19:38:02] === 
+Analysis started...
+Result file: C:\Users\Alejandro\documents\visual studio 2015\Projects\Practica 3\Practica 3\My Inspector XE Results - Practica 3\r000ti3\r000ti3.inspxe 
+Found target process c:\users\alejandro\documents\visual studio 2015\projects\practica 3\debug\practica 3.exe (PID = 8760). Analysis started... 
+Loaded module: C:\Users\Alejandro\documents\visual studio 2015\Projects\Practica 3\Debug\Practica 3.exe. 
+Loaded module: C:\Windows\SYSTEM32\KERNELBASE.dll. 
+Loaded module: C:\Windows\SYSTEM32\KERNEL32.DLL. 
+Loaded module: C:\Windows\SYSTEM32\ntdll.dll. 
+Loaded module: C:\Program Files\Bitdefender\Bitdefender 2016\Active Virus Control\Avc3_00343_010\avcuf32.dll. 
+Loaded module: C:\Windows\SYSTEM32\VCRUNTIME140D.dll. 
+Loaded module: C:\Windows\SYSTEM32\ADVAPI32.dll. 
+Loaded module: C:\Windows\SYSTEM32\msvcrt.dll. 
+Loaded module: C:\Windows\SYSTEM32\sechost.dll. 
+Loaded module: C:\Windows\SYSTEM32\RPCRT4.dll. 
+Loaded module: C:\Windows\SYSTEM32\SspiCli.dll. 
+Loaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll. 
+Loaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll. 
+Loaded module: C:\Windows\SYSTEM32\ucrtbased.dll. 

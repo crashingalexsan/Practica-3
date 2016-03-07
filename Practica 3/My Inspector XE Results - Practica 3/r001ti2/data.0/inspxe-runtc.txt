@@ -1,0 +1,40 @@
+
+=== Start: [2016/03/06 19:40:41] === 
+Analysis started...
+Result file: C:\Users\Alejandro\documents\visual studio 2015\Projects\Practica 3\Practica 3\My Inspector XE Results - Practica 3\r001ti2\r001ti2.inspxe 
+Found target process c:\users\alejandro\documents\visual studio 2015\projects\practica 3\debug\practica 3.exe (PID = 14100). Analysis started... 
+Loaded module: C:\Users\Alejandro\documents\visual studio 2015\Projects\Practica 3\Debug\Practica 3.exe. 
+Loaded module: C:\Windows\SYSTEM32\KERNELBASE.dll. 
+Loaded module: C:\Windows\SYSTEM32\KERNEL32.DLL. 
+Loaded module: C:\Windows\SYSTEM32\ntdll.dll. 
+Loaded module: C:\Program Files\Bitdefender\Bitdefender 2016\Active Virus Control\Avc3_00343_010\avcuf32.dll. 
+Loaded module: C:\Windows\SYSTEM32\VCRUNTIME140D.dll. 
+Loaded module: C:\Windows\SYSTEM32\ADVAPI32.dll. 
+Loaded module: C:\Windows\SYSTEM32\msvcrt.dll. 
+Loaded module: C:\Windows\SYSTEM32\sechost.dll. 
+Loaded module: C:\Windows\SYSTEM32\RPCRT4.dll. 
+Loaded module: C:\Windows\SYSTEM32\SspiCli.dll. 
+Loaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll. 
+Loaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll. 
+Loaded module: C:\Windows\SYSTEM32\ucrtbased.dll. 
+Loaded module: C:\Windows\SYSTEM32\kernel.appcore.dll. 
+Unloaded module: C:\Users\Alejandro\documents\visual studio 2015\Projects\Practica 3\Debug\Practica 3.exe. 
+Unloaded module: C:\Windows\SYSTEM32\KERNELBASE.dll. 
+Unloaded module: C:\Windows\SYSTEM32\KERNEL32.DLL. 
+Unloaded module: C:\Windows\SYSTEM32\ntdll.dll. 
+Unloaded module: C:\Program Files\Bitdefender\Bitdefender 2016\Active Virus Control\Avc3_00343_010\avcuf32.dll. 
+Unloaded module: C:\Windows\SYSTEM32\VCRUNTIME140D.dll. 
+Unloaded module: C:\Windows\SYSTEM32\ADVAPI32.dll. 
+Unloaded module: C:\Windows\SYSTEM32\msvcrt.dll. 
+Unloaded module: C:\Windows\SYSTEM32\sechost.dll. 
+Unloaded module: C:\Windows\SYSTEM32\RPCRT4.dll. 
+Unloaded module: C:\Windows\SYSTEM32\SspiCli.dll. 
+Unloaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll. 
+Unloaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll. 
+Unloaded module: C:\Windows\SYSTEM32\ucrtbased.dll. 
+Unloaded module: C:\Windows\SYSTEM32\kernel.appcore.dll. 
+Process c:\users\alejandro\documents\visual studio 2015\projects\practica 3\debug\practica 3.exe (PID = 14100) has terminated. 
+Application exit code: 0 
+Result file: C:\Users\Alejandro\documents\visual studio 2015\Projects\Practica 3\Practica 3\My Inspector XE Results - Practica 3\r001ti2\r001ti2.inspxe 
+Analysis completed
+=== End: [2016/03/06 19:50:22] === 
